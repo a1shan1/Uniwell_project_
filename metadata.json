@@ -1,0 +1,7 @@
+{
+  "name": "Uniwell_Project_UniSpots",
+  "description": "The ultimate retro-futuristic guide for GTA students to find study spots, social hubs, and networking events.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
